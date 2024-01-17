@@ -1,0 +1,6 @@
+params,accuracy,code_lines,threshold_count
+"Depth: 7, Min Leaf: 20, Min Split: 5, Alpha: 0.001",0.9464629986652824,49,16
+"Depth: 6, Min Leaf: 20, Min Split: 5, Alpha: 0.001",0.9434969598101736,46,15
+"Depth: 5, Min Leaf: 20, Min Split: 5, Alpha: 0.001",0.940086015126798,37,12
+"Depth: 5, Min Leaf: 2, Min Split: 5, Alpha: 0.01",0.9338573335310691,10,3
+"Depth: 2, Min Leaf: 2, Min Split: 5, Alpha: 0.001",0.7268278214444609,7,2

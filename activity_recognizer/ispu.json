@@ -1,0 +1,9 @@
+{
+    "output":
+    [
+      {
+        "name": "Predicted Activity",
+        "type": "int16_t"
+      }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "output":
+    [
+      
+      {
+        "name": "Predicted Ativity",
+        "type": "int16_t"
+      },
+      {
+        "name": "Var Acc x",
+        "type": "float"
+      },
+      {
+        "name": "norm acc sqred",
+        "type": "float"
+      },
+      {
+        "name": "norm gyr sqred",
+        "type": "float"
+      },
+      {
+        "name": "Gyro X",
+        "type": "faloat"
+      },
+      {
+        "name": "Acc x",
+        "type": "float"
+      }
+    ]
+  }
+  
